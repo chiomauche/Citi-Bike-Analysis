@@ -17,6 +17,8 @@ https://public.tableau.com/app/profile/chioma.uche/viz/CitiBikeTrip_169259301561
 
 ![Alt text](<Screenshot 2023-10-21 023041.png>)
 
+![Alt text](<Screenshot 2023-10-21 024749.png>)
+
 # Files
 
 I selected files to download from the Citi Bike DataLinks https://www.citibikenyc.com/system-data.
